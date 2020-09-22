@@ -1,6 +1,8 @@
 # Movie List
 A simple web application for movie fanatic
 
+https://kaikai8888.github.io/Movie-List/
+
 ## Features
 - listing movies from movie api
 - searching movies by title
